@@ -1,0 +1,13 @@
+type Navigation = {
+  POP: 'NAVIGATION/POP',
+  PUSH: 'NAVIGATION/PUSH',
+  SELECT_TAB: 'NAVIGATION/SELECT_TAB'
+}
+
+export const NAVIGATION: Navigation = {
+  POP: 'NAVIGATION/POP',
+  PUSH: 'NAVIGATION/PUSH',
+  SELECT_TAB: 'NAVIGATION/SELECT_TAB'
+};
+
+export default NAVIGATION;
