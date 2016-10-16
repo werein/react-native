@@ -1,4 +1,4 @@
-<img style="width:100%;" src="/github-banner.jpg”>
+<img style="width:100%;" src="/github-banner.jpg">
 
 # React Native (JS Only)
 
@@ -19,7 +19,7 @@ Simple boilerplate for React Native including all necessary tools:
 Create new React Native application or enter your current app and merge, add remote branch and merge it whenever you need
 
 ```
-git remote add upstream https://github.com/werein/react.git
+git remote add upstream https://github.com/werein/react-native.git
 git merge upstream/master
 ```
 
